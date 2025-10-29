@@ -8,15 +8,14 @@ It presents 3 methods.
 ### Advance, if rendered by JS, uses Selenium
 
 
-## Instalation instructions
+## Instalation instructions (using poetry)
 ```
-pip install -e .
+poetry env use 3.13
+poetry install
 ```
 
 ## Using the library
 ```
-poetry env use 3.13
-poetry install
 poetry run scraper
 poetry run scraper (simple or precise or advance) (url: https://example.com)
 ```
