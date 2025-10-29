@@ -17,6 +17,7 @@ pip install -e .
 ```
 poetry env use 3.13
 poetry install
+poetry run scraper
 poetry run scraper (simple or precise or advance) (url: https://example.com)
 ```
 
