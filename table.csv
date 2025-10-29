@@ -1,0 +1,87 @@
+0,1,2,3
+Course code,Quartile,Course Name,Course Type
+202200100,1A,Systems Engineering,"Compulsory (MPAI, ASAI, HRISAI)"
+202200101,1A,"Modelling, Dynamics, and Kinematics",Compulsory (MPAI)
+202200103,1A,Image Processing and Computer Vision,Compulsory (ASAI)
+202200113,1A,Human-Robot Collaboration,Compulsory (HRISAI)
+191560430,1A,Non-linear Dynamics,"Profile (Research MPAI, ASAI)"
+202000032,1A,Industrial Robotic Systems,Profile (Research MPAI)
+201900074,1A,Fundamentals of Numerical Methods,Profile (Resarch MPAI)
+201600070,1A,Machine Learning I*,"Profile (Research MPAI,ASAI,HRISAI)"
+201600076,1A,Foundations of Information Retrieval,Profile (Research ASAI)
+201800226,1A,"Concepts, Measures, and Methods",Profile (Research HRISAI)
+201600018,1A,Modelling of Technical Design Processes,"Profile (Design, I&E)"
+202100178,1A,I&E Basics: Innovation Management for EIT,Profile (I&E)
+191157750,1A,Engineering Acoustics,Elective
+191210930,1A,Measurement Systems for Mechatronics,Elective
+201400427,1A,Transducer Science,Elective
+202000037,1A,Structural Dynamics,Elective
+201600074,1A,Natural Language Processing,Elective
+202300201,"1A,1B,2A",Data Science - Additional Topics,Elective
+202200104,1B,Control System Design for Robotics,Compulsory (MPAI)
+202200105,1B,"Robot Perception, Cognition, and Navigation","Compulsory (ASAI, HRISAI)"
+191561620,1B,Optimal Control,"Profile (Research MPAI, ASAI)"
+201800177,1B,Deep Learning: From Theory to Practice,"Profile (Research MPAI, ASAI, HRISAI)"
+201900037,1B,Flexible Multibody Dynamics,Profile (Research MPAI)
+201900091,1B,Advanced Topics in Finite Element Methods,Profile (Research MPAI)
+201400285,1B,Biostatistics,"Profile (Research MPAI,ASAI,HRISAI)"
+201300004,1B,Robotics for Medical Applications,Profile (Research MPAI)
+202000030,1B,Automated Production Systems,Profile (Research MPAI)
+202500327,1B,Generative Artificial Intelligence Models and Robotic Applications,Profile (Research ASAI)
+201600071,1B,Machine Learning II**,"Profile (Research MPAI,ASAI,HRISAI)"
+202300200,"1B, 2A",Data Science,Profile (Research ASAI)
+201400180,1B,Multi-sensory Design,Profile (Research HRISAI)
+201600081,1B,Advanced Project in Natural Language Processing,Profile (Research HRISAI)
+201500008,1B,Empirical Methods for Designers,Profile (Research HRISAI)
+201700042,1B,"Safety by Design for Products, Equipment, and Systems***",Profile (Design)
+201800227,1B,Human Centred Design,Profile (Design)
+202200114,1B,Robotics Innovation Tournament,Profile (I&E)
+201800229,1B,"Basics of Impact, Innovation, and Entrepreneurship",Profile (I&E)
+201500009,1B,Electric Vehicle System Design,Elective
+201600075,1B,Speech Processing,Elective
+202200107,2A,Design Principles for Robotic and Mechatronic Mechanisms,Compulsory (MPAI)
+202200108,2A,Software Development for Robotics,Compulsory (MPAI)
+202200106,2A,Optimal Estimation in Dynamic Systems,Compulsory (ASAI)
+202200109,2A,Advanced Software Development for Robotics,"Compulsory (ASAI, HRISAI)"
+202200110,2A,Tele-presence Robotics,Compulsory (HRISAI)
+202000256,2A,Learning and Adaptive Control,"Profile (Research MPAI,ASAI)"
+191560671,2A,Robust Control,"Profile (Research MPAI,ASAI)"
+201900085,2A,Nonlinear Control,"Profile (Research MPAI, ASAI)"
+202200305,2A,Laser Scanning and Point Cloud Processing,"Profile (Resarch MPAI, ASAI)"
+202001392,2A,Active Sound and Vibration Control,Profile (Research MPAI)
+201900097,2A,Machine Learning in Engineering,"Profile (Research MPAI,ASAI)"
+202100244,2A,Pervasive Computing,Profile (Research ASAI)
+202100108,2A,Uncertainty Qualification and Data-driven Modelling,Proflie (Research ASAI)
+202100107,2A,Deep Learning for 3D Medical Image Analysis,Profile (Research ASAI)
+202000244,2A,Aircraft & Wind Turbine Aerodynamics,Profile (Research ASAI)
+191150480,2A,Human Movement Control,Profile (Research HRISAI)
+201600079,2A,Trends in Human Robot Interaction Research,Profile (Research HRISAI)
+202000033,2A,Frontiers in Design and Manufacturing,Profile (Design)
+202001492,2A,Design Thinking for Service and Business Innovation****,Profile (I&E)
+201800156,2A,Biomechanics of Human Movement,Elective
+202300146,2A,Law and Governance of Robotics & AI,Elective
+201600077,2A,Conversational Agents,Elective
+201800228,2A,Mastering Tinkering,Elective
+202400681,2A,AI- and Image-guided Robotics: from Theory to Medical Applications,Electives
+202200111,2B,System Identification with Parameter Estimation and Machine Learning,Compulsory (MPAI)
+202200112,2B,AI for Autonomous Robots: Deep Learning & Reinforcement Learning,Compulsory (ASAI)
+202200102,2B,Human-Robot Communication,Compulsory (HRISAI)
+201200133,2B,Biomechatronics,Profile (Research MPAI)
+191571090,2B,Time Series Analysis,"Profile (Research MPAI, ASAI,HRISAI)"
+202100226,2B,Reinforcement Learning in Engineering,"Profile (Research MPAI,ASAI)"
+201900098,2B,Uncertainty Quantification and Model Reduction,"Profile (Research MPAI,ASAI)"
+191211110,2B,Modelling and Simulation,"Profile (Research MPAI,ASAI)"
+201000168,2B,Embedded Systems Laboratory,Profile (Research ASAI)
+201100254,2B,Advanced Computer Vision and Pattern Recognition,Profile (Research ASAI)
+201800235,2B,Social Robot Design,"Profile (Research HRISAI,Design)"
+201600085,2B,Advanced Project in Brain Computer Interfacing,Profile (Research HRISAI)
+201600086,2B,Advanced Research Projects in Human Robot Interaction,Profile (Research HRISAI)
+201700294,2B,Engineering Project Management,"Profile (Design, I&E)"
+201000212,2B,Smart Environments Integration Project,Profile (Design)
+202000040,2B,Design of Flexible and Soft Robotic Systems,Profile (Design)
+201700173,2B,Aerial Robotics,Elective
+201700071,2B,Identification of Human Physiological Systems,Elective
+202000248,2B,Soft Robotics,Elective
+201000201,2B,Virtual Reality,Elective
+202200116,all,Capita Selecta Robotics,Elective
+201800207,all,Capita Selecta RAM,Elective

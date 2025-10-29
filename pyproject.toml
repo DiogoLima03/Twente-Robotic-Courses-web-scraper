@@ -1,0 +1,28 @@
+[project]
+name = "robotic-courses-web-scraper"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "DiogoLima03",email = "diogoaraujolima@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests (>=2.32.5,<3.0.0)",
+    "beautifulsoup4 (>=4.14.2,<5.0.0)",
+    "lxml (>=6.0.2,<7.0.0)",
+    "pandas (>=2.3.3,<3.0.0)",
+    "selenium (>=4.38.0,<5.0.0)",
+    "webdriver-manager (>=4.0.2,<5.0.0)",
+    "openpyxl (>=3.1.5,<4.0.0)"
+]
+
+[tool.poetry.scripts]
+scraper = "robotic_courses_web_scraper.cli:main"
+
+[tool.poetry]
+packages = [{include = "robotic_courses_web_scraper", from = "src"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
