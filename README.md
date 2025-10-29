@@ -3,9 +3,9 @@
 This pyhton app uses web scrapping to get all the Robotic Courses from canvas UT website.
 
 It presents 3 methods. 
-## Simple, used for data that is not rendered with JS. 
-## Precise control, used for target a specific table by id/class or clean cells, uses requests + BeautifulSoup.
-## Advance, if rendered by JS, uses Selenium
+### Simple, used for data that is not rendered with JS. 
+### Precise control, used for target a specific table by id/class or clean cells, uses requests + BeautifulSoup.
+### Advance, if rendered by JS, uses Selenium
 
 
 ## Instalation instructions
